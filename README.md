@@ -5,4 +5,5 @@ Javascript
 ## Nowy akapit
 ### ok
 ## kolaborator - współpracownik
-## SSH - secure Shell
+## SSH
+Secure Shell
