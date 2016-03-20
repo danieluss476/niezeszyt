@@ -2,7 +2,7 @@
 HTML5
 CSS3
 Javascript
-## Nowy akapit
+## Pierwsze zajecia
 ### ok
 ## kolaborator - współpracownik
 ## SSH
