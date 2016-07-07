@@ -11,8 +11,8 @@
 ## Pierwsze zajęcia
 
 > ### Założenie konta na GitHub
->> - konfiguracja konta
->> - założenie pierwszego repozytorium
+> - konfiguracja konta
+> - założenie pierwszego repozytorium
 
 ### Pojecia:
 
