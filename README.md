@@ -10,3 +10,12 @@ Javascript
 
 ## kolaborator - współpracownik
 
+[width="40%",frame="topbot",options="header,footer"]
+|============================
+|Hasła Git Hub |Skojarzenie polskie
+|1        |Item 1
+|2        |Item 2
+|3        |Item 3
+|6        |Three items
+|======================
+
