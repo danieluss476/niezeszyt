@@ -1,4 +1,4 @@
-# NIEZESZYT
+# *NIEZESZYT Daniela*
 <dl>
     <dt> Na zajęciach będziemy poznawać tajniki </dt>
     <dd> HTML5 </dd>
