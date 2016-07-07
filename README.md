@@ -16,7 +16,8 @@ Javascript
 |:------------:|:-------------------:|
 | Commit       | zmiana              |
 | Issue        | problem             |
-| Pull request  | zgłoszenie         |
+| Pull request | zgłoszenie          |
 | Master       | gałąź główna        |
 | Fork         | rozgałęzienie       |
+| Wiki         | dokumentacja        |
 
