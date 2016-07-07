@@ -13,10 +13,10 @@ Javascript
 
 
 |Hasła Git Hub |Skojarzenie polskie  |
-|--------------|---------------------|
+|:------------:|:-------------------:|
 | Commit       | zmiana              |
-| Issue        | problem               |
-| Pull request  | zgłoszenie          |
-|6             |Three items          |
-|--------------|---------------------|
+| Issue        | problem             |
+| Pull request  | zgłoszenie         |
+| Master       | gałąź główna        |
+| Fork         | rozgałęzienie       |
 
