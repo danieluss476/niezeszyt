@@ -9,16 +9,17 @@
     <dd> strony internetowe </dd>
 </dl>
 ## Pierwsze zajecia
-### Zalożenie konta na GitHub
-    -konfiguracja konta
-    - zaożenie pierwszego repozytorium
+> ### Zalożenie konta na GitHub
+>> - konfiguracja konta
+>> - założenie pierwszego repozytorium
+
 ### Pojecia:
 
 ## kolaborator - współpracownik
 
 
 
-|Hasła Git Hub |Skojarzenie polskie  |
+|Hasła GitHub  |Skojarzenie polskie  |
 |:------------:|:-------------------:|
 | Commit       | zatwierdzenie zmian |
 | Issue        | problem             |
@@ -26,4 +27,6 @@
 | Master       | gałąź główna        |
 | Fork         | rozgałęzienie       |
 | Wiki         | dokumentacja        |
+
+
 
