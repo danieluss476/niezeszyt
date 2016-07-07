@@ -8,8 +8,9 @@
     <dd> strony informacyjne z użyciem notacji Markdown </dd>
     <dd> strony internetowe </dd>
 </dl>
-## Pierwsze zajecia
-> ### Zalożenie konta na GitHub
+## Pierwsze zajęcia
+
+> ### Założenie konta na GitHub
 >> - konfiguracja konta
 >> - założenie pierwszego repozytorium
 
