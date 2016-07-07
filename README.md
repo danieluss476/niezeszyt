@@ -14,9 +14,9 @@ Javascript
 
 |Hasła Git Hub |Skojarzenie polskie  |
 |--------------|---------------------|
-|1             |Item 1               |
-|2             |Item 2               |
-|3             |Item 3               |
+| Commit       | zmiana              |
+| Issue        | problem               |
+| Pull request  | zgłoszenie          |
 |6             |Three items          |
 |--------------|---------------------|
 
